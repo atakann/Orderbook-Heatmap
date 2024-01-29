@@ -1,0 +1,10 @@
+.chart-container {
+    width: 100%;
+    max-width: 2000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+svg {
+    background-color: black;
+}
