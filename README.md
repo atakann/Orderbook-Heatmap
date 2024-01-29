@@ -9,7 +9,7 @@ This project showcases two different approaches to building a heatmap visualizat
 
 ### 1. Using D3.js (`Heatmap` Component)
 
-The `Heatmap` component utilizes D3.js, a powerful library for data visualization. D3.js excels in handling the complexities of scaling, axes, and SVG element manipulation, making it an ideal choice for creating sophisticated data visualizations.
+The `Heatmap` component utilizes D3.js.
 
 **Features:**
 - Data binding and rendering using D3.js
@@ -18,7 +18,7 @@ The `Heatmap` component utilizes D3.js, a powerful library for data visualizatio
 
 ### 2. Using Pure React & JavaScript (`Heatmapfn` Component)
 
-The `Heatmapfn` component demonstrates an alternative approach using only React and JavaScript. This method involves manual calculations for scaling and direct SVG manipulation within React, offering finer control over each aspect of the visualization.
+The `Heatmapfn` component uses only React and JavaScript.
 
 **Features:**
 - Manual implementation of data scaling
